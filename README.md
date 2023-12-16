@@ -224,7 +224,7 @@ Japanese answer: どぞう
 
 The input method for these answers is pretty annoying and if you don't know the
 order of the characters you might have a hard time finding what you're looking
-for.  I would suggest looking up a hiragana chart on Google images, since that's
+for.  I would suggest looking up a Hiragana chart on your image provider of choice, since that's
 the order that the game uses.  Also, what you won't find on those charts is that
 many Japanese characters can have a little mark that looks like a quotation mark
 after a character, like changing と to ど.  The game puts all of these modified
@@ -310,7 +310,7 @@ not push A or B!**  Instead, press start immediately.  If you press start
 without inputting anything else, they will be given the default names どんべ
 (Donbe) and ひかり (Hikari), which is what the script assumes their names will
 be.  Hikari means "light", and as for Donbe, after you get to this point in the
-game, do a google image search for "Donbei" and you should understand where it
+game, do an image provider search for "Donbei" and you should understand where it
 came from.  If you give them other names, the script will not be able to
 translate any of the messages that include their names.
 
